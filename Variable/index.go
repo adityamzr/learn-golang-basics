@@ -6,10 +6,10 @@ func main()  {
 	//Contoh variable yang didefinisikan tipe datanya
 	var name string
 
-	name = "Nava"
+	name = "karina"
 	fmt.Println(name)
 	
-	name = "Nay"
+	name = "karin"
 	fmt.Println(name)
 
 	//Contoh Variable yang tidak didefinisikan tipe datanya

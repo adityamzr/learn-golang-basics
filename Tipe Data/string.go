@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 func main()  {
-	fmt.Println("Nay")
-	fmt.Println(len("Nava"))
-	fmt.Println("Nava Dwi"[0])
-	fmt.Println("Nava Dwi Indriyanti"[3])
+	fmt.Println("adid")
+	fmt.Println(len("adid"))
+	fmt.Println("aditya mzr"[0])
+	fmt.Println("aditya m zainir"[3])
 } 
