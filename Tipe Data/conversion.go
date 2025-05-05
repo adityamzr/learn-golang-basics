@@ -14,7 +14,7 @@ func main() {
 	fmt.Println(nilai8) /* Karna melebihi kapasitas tipe data maka hasilnya akan berbeda */
 
 	var (
-		name = "Nay"
+		name = "did"
 		i = name[0]
 		iString = string(i)
 	)

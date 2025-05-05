@@ -26,8 +26,8 @@ func main() {
 	var slice2 = months[10:]
 	// Ketika append tidak merubah array sebelumnya, karena membuat array baru dan menambah data
 	var slice3 = append(slice2, "Ramadhan")
+	
 	fmt.Println(slice3)
-
 	fmt.Println(slice2)
 	fmt.Println(months)
 }

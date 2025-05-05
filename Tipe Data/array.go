@@ -4,9 +4,9 @@ import "fmt"
 
 func main() {
 	var names [3]string
-	names[0] = "Nava"
-	names[1] = "Dwi"
-	names[2] = "Indriyanti"
+	names[0] = "Aditya"
+	names[1] = "m"
+	names[2] = "z"
 
 	fmt.Println(names[0])
 	fmt.Println(names[1])
