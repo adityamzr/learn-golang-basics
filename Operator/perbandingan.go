@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	var name1 = "Nay"
-	var name2 = "Nava"
+	var name1 = "Salsa"
+	var name2 = "Bila"
 
 	var result = name1 < name2
 	fmt.Println(result)
